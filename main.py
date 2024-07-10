@@ -103,3 +103,16 @@ def animal_sounds(animals):
 
 
 animal_sounds(zoo.animals)
+
+
+def save_info(zoo):
+    with open("zoo_info.txt", "w", encoding="utf-8") as file:
+        file.write(f"Животные в зоопарке {zoo.name}:\n")
+        for animal in zoo.animals:
+            file.write(f"{animal.name}, возраст {animal.age}\n")
+        file.write("\nДолжности в зоопарке:\n")
+        for staff in zoo.staff:
+            file.write(f"{staff.name}, должность: {staff.__class__.__name__}\n")
+
+
+save_info(zoo)
