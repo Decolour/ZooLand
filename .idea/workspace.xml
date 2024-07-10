@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b63a371-58e9-4a01-9056-c0fd55c507ac" name="Changes" comment="add main">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quotes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/First_rep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/First_rep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b63a371-58e9-4a01-9056-c0fd55c507ac" name="Changes" comment="add main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +54,7 @@
       <workItem from="1717573961092" duration="86000" />
       <workItem from="1717574058107" duration="871000" />
       <workItem from="1717574946441" duration="674000" />
+      <workItem from="1720645443301" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="add main">
       <created>1717573504311</created>
