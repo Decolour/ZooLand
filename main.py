@@ -114,5 +114,5 @@ def save_info(zoo):
         for staff in zoo.staff:
             file.write(f"{staff.name}, должность: {staff.__class__.__name__}\n")
 
-
 save_info(zoo)
+
