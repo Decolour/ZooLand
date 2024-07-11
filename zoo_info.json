@@ -1,0 +1,33 @@
+{
+    "name": "ZooLand",
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "Гусь",
+            "age": 2,
+            "wing_size": "10 см"
+        },
+        {
+            "type": "Mammal",
+            "name": "Кот",
+            "age": 3,
+            "fur_color": "Чёрный"
+        },
+        {
+            "type": "Reptile",
+            "name": "Змея",
+            "age": 2,
+            "tail_size": "100 см"
+        }
+    ],
+    "staff": [
+        {
+            "type": "ZooKeeper",
+            "name": "Вася"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "Пётр Михалыч"
+        }
+    ]
+}
